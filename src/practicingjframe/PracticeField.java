@@ -72,7 +72,8 @@ public class PracticeField {
     
     
     
-    
+     
+    /*
     // FlowLayout
     JFrame frame = new JFrame();
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -91,6 +92,15 @@ public class PracticeField {
     frame.add(jb3);
     frame.add(jb4);
     frame.add(jb5);
+    */
+    
+    
+    
+    
+    // BoxLayout
+    
+    
+    
     
 }
     
